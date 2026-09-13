@@ -18,6 +18,8 @@
 ```yaml
 name: Phạm Tiến Thắng
 location: Hà Nội, Việt Nam 🇻🇳
+email: phamthang25102004@gmail.com
+phone: "084202589"
 passions: [Game Development, Artificial Intelligence, Software Engineering]
 current_focus: [Unity 3D/2D, Transformer & NLP Models, Game Systems]
 motto: "Code with passion, build with precision."
@@ -116,17 +118,20 @@ motto: "Code with passion, build with precision."
 ### 📫 Kết nối với tôi / Let's Connect
 
 <div align="center">
-  <a href="mailto:phamtienthang2510@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:phamthang25102004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-phamthang25102004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/PhamTienThang2510">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="tel:084202589">
+    <img src="https://img.shields.io/badge/Phone%20%2F%20Zalo-084202589-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone/Zalo"/>
   </a>
-  <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/th%E1%BA%AFng-ph%E1%BA%A1m-b1b290317/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Th%E1%BA%AFng%20Ph%E1%BA%A1m-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <a href="https://www.facebook.com/tien.thang.pham.2024/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Ph%E1%BA%A1m%20Ti%E1%BA%BFn%20Th%E1%BA%AFng-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/PhamTienThang2510" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-PhamTienThang2510-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
