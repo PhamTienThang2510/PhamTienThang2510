@@ -19,7 +19,7 @@
 name: Phạm Tiến Thắng
 location: Hà Nội, Việt Nam 🇻🇳
 email: phamthang25102004@gmail.com
-phone: "084202589"
+phone: "0842026589"
 passions: [Game Development, Artificial Intelligence, Software Engineering]
 current_focus: [Unity 3D/2D, Transformer & NLP Models, Game Systems]
 motto: "Code with passion, build with precision."
@@ -121,8 +121,8 @@ motto: "Code with passion, build with precision."
   <a href="mailto:phamthang25102004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-phamthang25102004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="tel:084202589">
-    <img src="https://img.shields.io/badge/Phone%20%2F%20Zalo-084202589-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone/Zalo"/>
+  <a href="tel:0842026589">
+    <img src="https://img.shields.io/badge/Phone%20%2F%20Zalo-0842026589-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone/Zalo"/>
   </a>
   <a href="https://www.linkedin.com/in/th%E1%BA%AFng-ph%E1%BA%A1m-b1b290317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Th%E1%BA%AFng%20Ph%E1%BA%A1m-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
