@@ -1,12 +1,12 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,1&height=220&section=header&text=Phạm%20Tiến%20Thắng&fontSize=40&fontAlignY=36&animation=twinkling&desc=Fresher%20Unity%20Developer%20%E2%80%A2%20Gameplay%20Programmer&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,1&height=220&section=header&text=Phạm%20Tiến%20Thắng&fontSize=40&fontAlignY=36&animation=twinkling&desc=Unity%20Game%20Developer%20%E2%80%A2%20Open-source%20Creator&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://github.com/PhamTienThang2510">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Ph%E1%BA%A1m+Ti%E1%BA%BFn+Th%E1%BA%AFng+%F0%9F%91%8B;Fresher+Unity+Game+Developer+%F0%9F%8E%AE;Building+2D+%26+3D+Games+with+Unity+%26+C%23+%F0%9F%95%B9%EF%B8%8F;Passionate+about+Gameplay+Mechanics+%26+Optimization+%E2%9A%A1;Ready+for+Fresher+%2F+Junior+Unity+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Ph%E1%BA%A1m+Ti%E1%BA%BFn+Th%E1%BA%AFng+%F0%9F%91%8B;Fresher+Unity+Game+Developer+%F0%9F%8E%AE;Building+2D+%26+3D+Games+with+Unity+%26+C%23+%F0%9F%95%B9%EF%B8%8F;Passionate+about+Gameplay+Mechanics+%26+Optimization+%E2%9A%A1;T%C3%A1c+gi%E1%BA%A3+MangaForge+%E2%80%93+app+d%E1%BB%8Bch+truy%E1%BB%87n+m%C3%A3+ngu%E1%BB%93n+m%E1%BB%9F+%F0%9F%93%96;Ready+for+Fresher+%2F+Junior+Unity+Roles+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,13 +22,16 @@ location: Hà Nội, Việt Nam 🇻🇳
 email: phamthang25102004@gmail.com
 phone: "0842026589"
 core_stack: [Unity Engine (2D/3D), C#, OOP, Design Patterns]
-current_focus: [Gameplay Systems, Object Pooling, Optimization, ShaderLab]
+current_focus: [Gameplay Systems, Unity Packages (UPM), Optimization, MangaForge 📖]
+open_source: "MangaForge — app dịch truyện tranh mã nguồn mở (GPL-3.0)"
 status: "Đang tìm kiếm cơ hội Fresher / Junior Unity Developer"
 ```
 
 - 🎮 **Lập trình Unity (C#)**: Đam mê phát triển game với Unity, nắm vững Unity Lifecycle, Component-based Architecture, và áp dụng linh hoạt các **Design Patterns** (Singleton, Observer, State Machine, Object Pooling).
 - 🕹️ **Gameplay & Mechanics**: Có kinh nghiệm triển khai cơ chế điều khiển nhân vật, hệ thống Spawner quái, Wave logic, Level progression, Animation, Canvas UI, và hệ thống tương tác vật lý (Physics 2D/3D).
 - ⚡ **Tối ưu hóa hiệu năng**: Thực hành tối ưu bộ nhớ với **Object Pooling**, quản lý Garbage Collection, cấu trúc code rõ ràng, dễ mở rộng và bảo trì.
+- 📖 **Mã nguồn mở**: Tác giả **[MangaForge](https://github.com/PhamTienThang2510/MangaForge)** — ứng dụng desktop dịch truyện tranh cho cộng đồng dịch Việt: pipeline AI (nhận diện chữ, OCR, xoá chữ bằng LaMa, dịch theo ngữ cảnh bằng LLM) + editor chèn chữ trực quan, đóng gói bộ cài Windows.
+- 📦 **Unity Package**: Viết và phát hành package UPM tái sử dụng được ([PTT_tutorial](https://github.com/PhamTienThang2510/PTT_tutorial) — hệ thống hướng dẫn UI từng bước cho uGUI).
 - 💡 **Kỹ năng mở rộng**: Nền tảng lập trình hướng đối tượng (OOP), cấu trúc dữ liệu & giải thuật, shader cơ bản (ShaderLab), cùng tư duy AI (Transformers/NLP) và phát triển ứng dụng di động.
 
 ---
@@ -68,11 +71,16 @@ status: "Đang tìm kiếm cơ hội Fresher / Junior Unity Developer"
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
 </p>
 
-#### 🧠 Kỹ năng mở rộng (AI & Mobile)
+#### 🧠 Kỹ năng mở rộng (AI, Desktop & Mobile)
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 </p>
 
@@ -103,11 +111,35 @@ status: "Đang tìm kiếm cơ hội Fresher / Junior Unity Developer"
 ---
 
 <!-- FEATURED PROJECTS -->
-### 🚀 Dự án Game & Sản phẩm tiêu biểu / Projects
+### 🌟 Dự án nổi bật / Featured: MangaForge
+
+<div align="center">
+  <a href="https://github.com/PhamTienThang2510/MangaForge"><img src="https://raw.githubusercontent.com/PhamTienThang2510/MangaForge/main/desktop/icon.png" width="88" alt="MangaForge"/></a>
+  <h3><a href="https://github.com/PhamTienThang2510/MangaForge">MangaForge</a></h3>
+  <p><b>Công cụ dịch truyện tranh mã nguồn mở cho người làm dịch Việt</b><br/>
+  Nhận diện chữ → OCR → xoá chữ → dịch theo ngữ cảnh cả chương → chèn chữ tiếng Việt → xuất PNG / PDF / PSD / Excel</p>
+  <p>
+    <a href="https://github.com/PhamTienThang2510/MangaForge/releases/latest"><img src="https://img.shields.io/github/v/release/PhamTienThang2510/MangaForge?style=for-the-badge&label=T%E1%BA%A3i%20v%E1%BB%81&color=5b8cff" alt="Release"/></a>
+    <img src="https://img.shields.io/github/stars/PhamTienThang2510/MangaForge?style=for-the-badge&color=f59e0b" alt="Stars"/>
+    <img src="https://img.shields.io/github/license/PhamTienThang2510/MangaForge?style=for-the-badge&color=10b981" alt="License"/>
+    <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  </p>
+</div>
+
+- 🔍 **Pipeline AI**: comic-text-detector (ONNX) + manga-ocr / EasyOCR + LaMa inpainting trên PyTorch (CUDA / CPU); tự dò & xoá chữ còn sót, nhận diện loại bong bóng thoại.
+- 🧠 **Dịch theo ngữ cảnh cả chương** với Claude / Gemini / OpenAI / LM Studio / Ollama + glossary tên riêng & xưng hô.
+- ✏️ **Editor trực quan**: so sánh trước/sau, kéo thả ô chữ, chữ hiển thị trực tiếp (WYSIWYG), thư viện font tiếng Việt có kiểm tra dấu.
+- 📦 **Đóng gói & bảo mật**: bộ cài Electron tự cài engine Python qua `uv`, model tải từ nguồn gốc có kiểm tra SHA-256, API key mã hoá Windows DPAPI.
+
+---
+
+### 🚀 Dự án Game & Sản phẩm khác / Other Projects
 
 | Dự án | Thể loại & Công nghệ | Điểm nổi bật & Tính năng |
 | :--- | :---: | :--- |
-| 🎮 **[Game Vampire Survival Like](https://github.com/PhamTienThang2510/Game-Vampire-Survival-Like-demo-project-personal-game)** | `Unity` `C#` `2D Roguelike` | Demo game phong cách rogue-like Vampire Survival: cơ chế di chuyển mượt mà, hệ thống wave quái tự động, thuật toán spawn, cơ chế nâng cấp kỹ năng, áp dụng **Object Pooling** để tối ưu hàng trăm entity cùng lúc. |
+| 🎮 **[2D Survival – Vampire Survivors Like](https://github.com/PhamTienThang2510/Game2d-TopDown-rougelike-VampireSurvivalLike)** | `Unity` `C#` `2D Roguelike` | Game sinh tồn top-down: wave quái, Open World & Arena map, nâng cấp vũ khí/kỹ năng, event đặc biệt, **Boss có AI nhiều state** (Idle / Dash / Skill), áp dụng **Object Pooling** cho hàng trăm entity. |
+| 💎 **[Match-3 Puzzle](https://github.com/PhamTienThang2510/Match3_Project)** | `Unity` `C#` `DOTween` | Bàn cờ cấu hình được, swap có animation, combo chain, tính điểm theo độ dài chuỗi, hệ thống gợi ý khi người chơi đứng yên, tự shuffle khi hết nước đi. |
+| 🧭 **[PTT_tutorial](https://github.com/PhamTienThang2510/PTT_tutorial)** | `Unity 6` `UPM Package` `uGUI` | Package hướng dẫn UI từng bước: làm tối màn hình, nổi bật nút, tooltip có mũi tên; cài bằng Git URL qua Package Manager. |
 | 🍳 **[CodeMonkey Kitchen 3D](https://github.com/PhamTienThang2510/CodeMonkey_Kitchen3d)** | `Unity 3D` `C#` `Simulation` | Game mô phỏng nhà bếp 3D: quản lý tương tác vật lý giữa người chơi và đồ dùng (cut, fry, plate), hệ thống đơn hàng theo thời gian thực và kiến trúc code module hóa. |
 | 📜 **[CodeMonkey Lua & Shaders](https://github.com/PhamTienThang2510/codemonkey_lua)** | `Unity` `Lua` `ShaderLab` | Thử nghiệm tích hợp scripting ngôn ngữ Lua và tinh chỉnh hiệu ứng visual shader trong Unity. |
 | 🤖 **[AI Detective Phishing Email](https://github.com/PhamTienThang2510/AI_Using_Transformer_model_to_detective_PhishingEmail)** | `Python` `Transformer` `PyTorch` | Mô hình học sâu áp dụng kiến trúc Transformer hiện đại để phát hiện và cảnh báo email lừa đảo (Phishing) với độ chính xác cao. |
