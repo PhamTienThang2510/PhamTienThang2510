@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://github.com/PhamTienThang2510">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Ph%E1%BA%A1m+Ti%E1%BA%BFn+Th%E1%BA%AFng+%F0%9F%91%8B;Fresher+Unity+Game+Developer+%F0%9F%8E%AE;Building+2D+%26+3D+Games+with+Unity+%26+C%23+%F0%9F%95%B9%EF%B8%8F;Passionate+about+Gameplay+Mechanics+%26+Optimization+%E2%9A%A1;T%C3%A1c+gi%E1%BA%A3+MangaForge+%E2%80%93+app+d%E1%BB%8Bch+truy%E1%BB%87n+m%C3%A3+ngu%E1%BB%93n+m%E1%BB%9F+%F0%9F%93%96;Ready+for+Fresher+%2F+Junior+Unity+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+Ph%E1%BA%A1m+Ti%E1%BA%BFn+Th%E1%BA%AFng+%F0%9F%91%8B;Junior+Unity+Game+Developer+%F0%9F%8E%AE;Building+2D+%26+3D+Games+with+Unity+%26+C%23+%F0%9F%95%B9%EF%B8%8F;Passionate+about+Gameplay+Mechanics+%26+Optimization+%E2%9A%A1;T%C3%A1c+gi%E1%BA%A3+MangaForge+%E2%80%93+app+d%E1%BB%8Bch+truy%E1%BB%87n+m%C3%A3+ngu%E1%BB%93n+m%E1%BB%9F+%F0%9F%93%96;Ready+for+Junior+Unity+Roles+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,14 +17,14 @@
 
 ```yaml
 name: Phạm Tiến Thắng
-role: Fresher Unity Developer / Gameplay Programmer 🎮
+role: Junior Unity Developer / Gameplay Programmer 🎮
 location: Hà Nội, Việt Nam 🇻🇳
 email: phamthang25102004@gmail.com
 phone: "0842026589"
 core_stack: [Unity Engine (2D/3D), C#, OOP, Design Patterns]
 current_focus: [Gameplay Systems, Unity Packages (UPM), Optimization, MangaForge 📖]
 open_source: "MangaForge — app dịch truyện tranh mã nguồn mở (GPL-3.0)"
-status: "Đang tìm kiếm cơ hội Fresher / Junior Unity Developer"
+status: "Đang tìm kiếm cơ hội Junior Unity Developer"
 ```
 
 - 🎮 **Lập trình Unity (C#)**: Đam mê phát triển game với Unity, nắm vững Unity Lifecycle, Component-based Architecture, và áp dụng linh hoạt các **Design Patterns** (Singleton, Observer, State Machine, Object Pooling).
